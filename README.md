@@ -81,26 +81,7 @@ KOSK
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-HULL LINDA
-
-VERSIOON 1 (agressiivne) :
-
-Ma saabusin metsatukal asetseva vana puitmaja juurde, mille uks haigutas pooleldi lahti ja tekitas tuulega tantsides kriginaid. Maja ümbrus oli lastud looduse poolt 
-üle võtta, arvestades, et see kunagi sealt üldse lahkunud oleks. Kiire “Hei! Kas siin on keegi?” sai vastuseks majast kostva üllatunud karje, mille järel ilmus juba 
-avatud ukseavasse väga kohkunud, kuid kurja näoga vanem naisterahvas, kelle katkised ja määrdunud rõivaid teatasid mulle, et see on täpselt õige isik, keda ma otsinud 
-olen.
-
-Hull Linda - Kes sa oled!? Mis sa siit tahad?! Mine ära ja jäta mind rahule ennem kui ma sind kirvega maha peksan!
-
-Õpipoiss - *üritab rahustada Lindat ja seletada et ta soovib temalt viirukit paluda* 
-
-Hull Linda -  Ei anna ma sulle ega ühelegi teisele sinusugusele külasaastale ühtegi oma asja! Ma olin juba kord teie vastu tore ja jumalad võtsid minult mu kaasa ja 
-lapse. Mitte ühtegi asja ei saa te minult! Olgu see viiruk või mida iganes. Nüüd kao ma maalt!
-
-Õpipoiss - *seletab miks tal/külal seda vaja on*
-
-Hull Linda -  Aghhh!! Miks sa mind juba rahule ei jäta!! Oeh.. aga kui see tähendab, et ma sinust lahti saan ja sa mind enam ei tüüta, siis teeme kokkuleppe. Ma annan 
-sulle ühe ja ainult ühe viiruki, aga ainult sellel juhul, kui sa arvad ära ühe minu mõistatuse. Vaatame kui nutikad te närused külanoored olete.
+HULL LINDA / ADLIN
 
 VERSIOON 2 (naljatav) :
 
