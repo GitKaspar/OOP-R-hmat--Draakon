@@ -1,0 +1,31 @@
+Jõuad koseni, mille kahin viimsete aegade kuumuse tõttu varajasemast on väetim.
+
+Pardikesed liglevad veepinnal siia sinna. Mõni proovib meeleheitlikult ammutada toidupoolist vähestest
+kiduratest taimedest, mis kose poolt toidetava tiigi kaldal veel säilivad. Vastaskaldal lehkab jäneseraibe.
+
+Otsitav elukas (tõmpsuu) ei pidanud vee seest väga tihti välja tulema. Otsida saaks siin kas kose alt,
+tiigi kaldalt või - kui suplema vaevud - ka tiigi põhjast.
+
+Kuhu eelistaksid vaadata?
+// Asukoht iga kord erinev.
+a) tiigi kaldalt,
+	1) Leiad: Kae! Oligi seal! Haarad temast kinni.  
+	2) Ei leia: Vaatad sinna, vaatad tänna. Katsud vett, aga ei näe elukast märkigi.
+	3) if (a1) Vihje: Vanatoi ütles kunagi, et neile meeldib käia veepinnal sääsevastseid degusteerimas.
+b) tiigi põhjast,
+	1) Leidsid: Kae! Oligi seal! Haarad temast kinni ja tuled välja. Räpane ja väsinud, aga võidukas.
+	2) Ei leidnud : Nüüd oled räpane ja väsinud.
+	3) if (b1) Vihje: Valgust pidid teised kartma. Kus on siin kõige pimedam?
+c) kose alt.
+	1) Leidsid: Kae! Oligi seal! Haarad temast kinni ja tuled tagasi kaldale.
+	2) Ei: Memm rääkis kunagi, et kose all on saladused. Seekord mitte.
+	3) if (c1) Vihje: Kas Memm mitte ei öelnud, et mõnikord meeldib loomale liikuv vesi?
+
+Võtad kandekotist kaabitsa ja kraabid looma kõhu alt magusalõhnalist nõret.
+
+Said, mis vajad. Mis loomast saab?
+1) Lase ta tagasi vette. Kiiresti kaob ta paari sabahoobiga vee alla, aga miski ütleb, et ta oleks sinu abita sama teed läinud. Tagasi küll.
+2) Lõmasta ta. Kostab vali karjatus ja verd on igal pool. One hea tunne? Tagasi külla.
+3) Äkki sobib lemmikloomaks? - Vingerjas teine! Lipsas kohe vette tagasi. Siin pole enam midagi teha. Tagasi külla. 
+
+Ikka ei leia. Õpetaja ajas ilmselt lora. Loom on kas välja surnud või mujale asunud. Tagasi külla.
