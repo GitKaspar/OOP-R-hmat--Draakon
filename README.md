@@ -171,3 +171,7 @@ Kui õige – Assa... kuidas sa selle ära arvasid? See oli üks mu parimaid mõ
 VALEJUMALA ALTAR
 
 // Külas: keegi tuleb lehmana tagasi.
+
+LISA (Kaspar):
+* Pakuks, et Šamaani võiks ümber Vanemaks nimetada - eestipärasem.
+* Teksti kuvamise dilemma: kas tekst liigub edasi kasutaja kliki peale või omas tempos? Hübriidlahendus ehk parim, aga see vajab rohkem aega.
