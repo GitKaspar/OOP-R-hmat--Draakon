@@ -1,6 +1,4 @@
-Vanem:
-
-"Tule lähemale, tüdruk, ja kuula hoolega.
+VANEM: Tule lähemale, tüdruk, ja kuula hoolega.
 Pean sulle üht-teist rääkima.
 
 Päike on sel suvel olnud armutu.
