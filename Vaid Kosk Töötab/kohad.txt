@@ -1,0 +1,5 @@
+Vana tiik;f;kosk.txt;Salamandri eritis
+Alpaku altar;f;altar.txt;Altar hävitatud
+Jürka karjamaa;f;jürka.txt;Ohvriloom
+Viirukimeistri hütt;f;adlin.txt;Viiruk
+Alpaku šamaani kodukant;f;libapreester.txt;Šaaman läinud
