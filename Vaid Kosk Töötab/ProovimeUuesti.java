@@ -107,7 +107,7 @@ public class ProovimeUuesti {
     static int juhuslikArv(int valikuid) {
         int min = 1;
         int max = valikuid; // Murekoht? +1 või mitte?
-        int tulemus = (int) (Math.random() * ((max - min) + min));
+        int tulemus = (int) (min + Math.random() * valikuid);
         return tulemus;
     }
 
