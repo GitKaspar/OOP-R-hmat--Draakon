@@ -21,7 +21,7 @@ public class ProovimeUuesti {
         System.out.println("1. Kose juurde salamandrit otsima.");
         System.out.println("2. Metsa ebajumala altarit hävitama.");
         System.out.println("3. Jürka juurde ohvrilooma otsima.");
-        System.out.println("4. Viirukimeistrit otsima.");
+        System.out.println("4. Viirukimeistrinnat otsima.");
         System.out.println("5. Ebajumala usukuulutajat peletama.\n");
 
         Scanner kohad = new Scanner(new File("kohad.txt"), "UTF-8");
