@@ -103,7 +103,7 @@ public class Koht {
         String valik2 = "Kostab vali karjatus. Verd on igal pool.\n" +
                 "One hea tunne?\n" +
                 "Tagasi külla.\n";
-        String valik3 = "Vingerjas teine! Lipsas kohe vette tagasi.\n" +
+        String valik3 = "Vingerjas teine! Libises käest ja lipsas kohe vette tagasi.\n" +
                 "Siin pole enam midagi teha.\n" +
                 "Tagasi külla. \n";
 
