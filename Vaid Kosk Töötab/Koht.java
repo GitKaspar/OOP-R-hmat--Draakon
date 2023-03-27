@@ -52,7 +52,7 @@ public class Koht {
             String[] õiged = {õige1, õige2, õige3};
 
             // Kuidas vale ja õige õige numbriga siduda?
-
+            
             if (valik <= 3 && valik >= 1) {
                 if (valik == õigeNr) {
                     System.out.println(õiged[valik - 1]);
@@ -60,16 +60,19 @@ public class Koht {
                 else if(õigeNr == 1){
                     võimalusi--;
                     System.out.println(valed[valik-1]);
-                    System.out.println(vihje1);
+                    if(võimalusi == 1)
+                        System.out.println(vihje1);
                 }
                 else if (õigeNr == 2) {
                     võimalusi--;
                     System.out.println(valed[valik-1]);
-                    System.out.println(vihje2);
+                    if(võimalusi == 1)
+                        System.out.println(vihje2);
                 } else if (õigeNr == 3) {
                     võimalusi--;
                     System.out.println(valed[valik-1]);
-                    System.out.println(vihje3);
+                    if(võimalusi == 1)
+                        System.out.println(vihje3);
                 }
             } else {
                 System.out.println("Valikuvariandid on 1, 2 ja 3.");
