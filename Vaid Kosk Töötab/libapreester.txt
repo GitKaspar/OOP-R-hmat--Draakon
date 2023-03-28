@@ -1,12 +1,105 @@
-Algul peab šamaan jutlust.
+Külaplatsilt on kuulda kahtlast suminat. Lähemale jõudes on näha rahvahulka, kes on kogunenud puitpoodiumi ümber sellel kõnelejat kuulama. 
+Tegu on küla "uue" šamaaniga, kes levitab püha Aklupati sõnumit. 
+Vanem ütles, et ta üritab raskel ajal külarahva meeleheidet enda heaks ära kasutada.
+Vihmajumala siia meelitamiseks ei saa selline valeusu levitamine jätkuda. Ma pean ta siit külast ära ajama.
 
-/
-Külaplatsilt on kuulda kahtlast suminat. Lähemale jõudes on näha rahvahulka, kes on kogunenud puitpoodiumi ümber sellel kõnelejat kuulama. "Astuge lähemale, astuge lähemale! Teie jumal soovib teiega oma läbi oma isikliku sõnumitooja - minu muidugi - tarkust jagada." Tegu on küla "uue" šamaaniga, kes levitab püha Aklupati sõnumit. Õpetaja ütles, et ta üritab raskel ajal külarahva meeleheidet enda heaks ära kasutada.
+Mõtled endamisi, kuidagi pean ma temaga jutule saama. Aga et siin kõige selle rahva ees... ma pean olema ettevaatlik.
 
-V1: Vihmajumala siia meelitamiseks ei saa selline valeusu levitamine jätkuda. Ma pean ta kuidagi peatama / siit külast ära ajama. V2: Vihmadraakonile teeks kindlasti rõõmu, kui ta vastase jüngritel külas enam kandepinda ei oleks.
-/
+Libašamaan:
+Astuge lähemale, astuge lähemale! Teie jumal soovib teiega läbi oma isikliku sõnumitooja - minu muidugi - tarkust jagada.
+* Rahvas jälgib kõnepidajat suurte silmadega nagu jamalat ennast. *
 
-Sekkud.
+Õpilane:
+Terekest pühamees! Mitte ei taha sinu sõnavõtule siin vahele segada, aga meil kahel on veidi juttu vaja ajada.
+
+Libašamaan:
+Noh mis juttu meil kahel ajada on? Tuli sul tüdtarlapsel lõpuks mõistus pähe ning muutsid oma usu asjus meelt?
+Sai sul ehk oma kasutust vihmajumalast villant?
+* Publik jõllitab sind vaikselt irvitades. *
+
+Mul ei ole mingeid saladusi oma rahva ees. Niiet kui sul mulle midagi öelda on võid seda juba meie kõigi ees teha.
+
+Õpilane:
+* Vaatad veidi tagasihoidlikult sind ümbritsevat rahvamassi, kuid võtad julguse kokku. *
+Kuidas vastad?
+1. Süüdistad libašamaani võimeid võltsiks.
+2. Anud vastutulemist.
+3. Kuulutad Luvipa ainuõigeks jumalaks.
+
+v1Õpilane:
+v1.Ah et sul ei ole rahva eest midagi varjata? 
+v1.Ise oled võlts ja petis, kes ei oska õiget maagiatki!
+v1.
+v1.Libašamaan:
+v1.Kallis neiu, kas tõesti pean ma oma võimeid sulle tõestama?
+v1.Kui see sinu südame rahulikumalt tuksuma paneb, siis eks ma näitan, mida teha suudan.
+v1.
+v1.* Külarahvalt on kuulda elevil sosinaid. *
+v1.
+v1.* Pühamees sulgeb oma silmad ja sirutab käe kaugusesse seda valjult ümisedes edasi-tagasi liigutades, kuni jääb seisma platsi ääres oleva puitkastide virna juurde. *
+v1.
+v1.Libašamaan:
+v1.Ma tunnetan oma võimetega, et selle kastide hunniku tagant lendab täpselt 10 sekundi pärast välja valge tuvi.
+v1.* Sa vaatad koos rahvahulgaga kätteantud suunas ja ootad. *
+v1.
+v1.* Hetk hiljem tõusebki väike valge lind kastide tagant lendu. *
+v1.
+v1.* Rahvamass hakkab imestatult plaksutama. Šamaan on oma võimeid tõestanud. *
+v1.
+v1.Mida teha järgmisena?
+v1.1.Näitad oma võimeid vastu.
+v1.2.Vaikid, olles šamaani trikist sõnatu.
+
+v1.v1.Õpilane:
+v1.v1.Minagi oskan oma talendiga uhkeldada.
+v1.v1.
+v1.v1.* Võtad loitsumisasendi sisse ning hakkad mälu järgi sõnu lausuma. *
+v1.v1.* Suunad oma käe selle sama puukasti hunniku poole, mille tagant tuvi oli ennem välja lennanud ning viimaseid sõnu lausudes pahvatab virn leekidesse. *
+v1.v1.* Kostab karje ning leekide tagant jookseb välja suitsevate pükstega mees, linnupuur kätevahel. *
+v1.v1.* Rahvas hakkab omavahel valjult rääkima ning iga hetkega muutub nende toon vihasemaks. *
+v1.v1.
+v1.v1.Õpilane:
+v1.v1.Sa ise käskisid oma meestel selle tuvi lendu laste? On nii?
+v1.v1.Ma teadsin et sa oled üks suur rahva pettur! Mitte midagi muud!
+v1.v1.
+v1.v1.* Inimmass, nüüd juba päris ärritunud hakkab libašamaani peale karjuma ning talle lähemale liikuma. *
+v1.v1.
+v1.v1.Libašamaan:
+v1.v1.Kuulge rahavas, semud, sõbrad... Olge nüüd. 
+v1.v1.Te ju teate ja tunnete mind, ma ei valetaks teile nii.
+v1.v1.See vana küla Karel on ju joodik ja jäi arvatavasti lihtsalt sinna kasti virna taha magama...
+v1.v1.
+v1.v1.* Ennem kui libašamaan oma lauset õieti lõpetada suudab lennutatakse tema poole juba kive. *
+v1.v1.* Tal ei jää muud valikut, kui oma elu hoidmiseks külast jooksu panna *
+v1.v1.
+v1.v1.* Vaatad kuidas rahvamass šamaanile järgi tormab ja tunned ennast tehtu üle uhkelt. *
+v1.v1.* Tundub, et eesmärk sai täidetud ja valeusu levitaja külast ära aetud. *
+v1.v1.* Lähed koju, et enne homset veidi sõba silmale saada. *
+
+v1.v2.Mõtled veidi endamisi.
+v1.v2.Ehk oli tõesti mu õpetajal küla uue šamaani üle ekslik arvamus...
+v1.v2.Võibolla toob see tulevikus külale rohkem kahju nii heade annetega loitsjat ära ajada?
+v1.v2.
+v1.v2.Libašamaan:
+v1.v2.Noh, kuhu su jutukus nüüd siis kadus? Tahtsid ju miskit minuga rääkida? 
+v1.v2.Või laususin su kogemata tummaks?
+v1.v2.
+v1.v2.* Šamaan hakkab koos rahvaga naerma. *
+v1.v2.* Tunned piinlikustunnet. *
+v1.v2.
+v1.v2.Õpilane:
+v1.v2.Jah, pean tunnistama, et süüdistasin sind alusetult, kallis pühamees.
+v1.v2.
+v1.v2.Libašamaan:
+v1.v2.Ei ole hullu tüdrukutirts. 
+v1.v2.Nüüd kus sa oled päris võimeid näinud võid sa minna ja oma šamaanile ka üht-teist õpetada.
+v1.v2.Teist kahest võib veel asja saada, kuigi ma selles väga kahtlen...
+v1.v2.
+v1.v2.* Rahvamass ei suuda oma itsitamist kinni hoida ning hakkab sind jõllitades laginal naerma. *
+v1.v2.
+v1.v2.* Oled oma au sisse augu mänginud ning siin vestluses sulle enam võiduvõimalust ei paista olevat. *
+v1.v2.* Taganed saba jalge vahel külaplatsilt ja otsustad minna koju patja nutma. Mine tea, homme võib olla parem päev *
+
 
 Variandid:
 1) Maagia (linnud)
