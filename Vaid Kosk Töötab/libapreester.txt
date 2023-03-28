@@ -100,6 +100,24 @@ v1.v2.
 v1.v2.* Oled oma au sisse augu mänginud ning siin vestluses sulle enam võiduvõimalust ei paista olevat. *
 v1.v2.* Taganed saba jalge vahel külaplatsilt ja otsustad minna koju patja nutma. Mine tea, homme võib olla parem päev *
 
+v2.Ma tulen sinu jutule kõige heaga ning paluksin sinult alandlikult abi.
+v2.Meil on külavanemaga plaan kutsuda välja Vihmajumal, kuid selleks, et Luvipat veenda oleks vaja, et teie Aklupati usu levimine lõppeks.
+v2.
+v2.* Šamaan jääb hetkeks mõtlikult sulle otsa vaatama. *
+v2.
+v2.Libašamaan:
+v2.Ma peaksin oma usule lõpu tegema lihtsalt, et teie kasutu jumal enda kohustusi tõsiselt võtaks?
+v2.
+v2.Hah... mina nii ei arva.
+v2.Sa pead minu ja ennekõike külarahva veenimiseks enamat tegema.
+v2.
+v2.* Need inimesed on liiga sügavale valeusku vajunud. Mul on idee, mis võib neile meelde tuletada meie küle õiged esivanemate uskumised. *
+v2.
+v2.Õpilane:
+v2.Lootuse Jumal täitku teid kogu rõõmu ja rahuga, kui te Teda usaldate, et te saaksite Püha Vaimu väel lootusega täidetud
+v2.
+v2.
+v2.
 
 Variandid:
 1) Maagia (linnud)
