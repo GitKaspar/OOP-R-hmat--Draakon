@@ -1,9 +1,10 @@
 Külaplatsilt on kuulda kahtlast suminat. Lähemale jõudes on näha rahvahulka, kes on kogunenud puitpoodiumi ümber sellel kõnelejat kuulama. 
 Tegu on küla "uue" šamaaniga, kes levitab püha Aklupati sõnumit. 
-Vanem ütles, et ta üritab raskel ajal külarahva meeleheidet enda heaks ära kasutada.
+Vanem ütles, et ta üritab raskel ajal külarahva meeleheidet enda heaks ära kasutada ning tõtt-öelda puuduvad tal igasugused maagilised võimed.
 Vihmajumala siia meelitamiseks ei saa selline valeusu levitamine jätkuda. Temast peab kuidagi lahti saama.
 
-Mõtled endamisi, kuidagi pead temaga jutule saama. Aga et siin kõige selle rahva ees... oma sõnadega tuleb ettevaatlik olla.
+Mõtled endamisi, kuidagi pead temaga jutule saama. Aga et siin kõige selle rahva ees... 
+oma sõnadega tuleb ettevaatlik olla.
 
 Libašamaan:
 Astuge lähemale, astuge lähemale! Teie jumal soovib teiega läbi oma isikliku sõnumitooja - minu muidugi - tarkust jagada.
@@ -133,40 +134,30 @@ v2.* Siin ei ole enam midagi teha. Isegi päike on loojas. *
 v2.* Pistad pühakirjad kärsitult tasku tagasi ja lähed koju magama. *
 
 v3.Õpilane:
-v3.Sa tead väga hästi, et sinu usk on üks suur väljamõeldis.
-v3.Luvipa on meie ainus jumal ning teie valeusu levitamine on ta meie külast kaugele ära ajanud.
-v3.Sina ja sinu jüngrid on meie küla hävingus süüdi.
+v3.Ma tulin sinu ja su liitlaste levitatud petujutule lõppu tegema.
+v3.Liiga kaua oled sa hoidnud halli varju üle meie küla.
+v3.Ja meie ainuõige jumala Luvipa eemale peletanud.
 v3.
 v3.Libašamaan:
+v3.Ah et minu Jumal on vale?
 v3.
+v3.* Rahvamassilt on kuulda sosinaid. *
 v3.
+v3.Kes on hoidnud meie küla aastaid elus, siis kui teie usk meid alt vedas?
+v3.Kas mitte ei ole selleks meie päästja Aklupat ise?
 v3.
+v3.Sina ja su õpetaja olete just need, kes meie hävingus süüdi on!
 v3.
+v3.* Rahvas muutub rahutuks ja on kuulda nõstuvaid karjeid. *
+v3.* Asi on selge. Inimesed pooldavad libašamaani valesid. *
 v3.
+v3.Sul on veel jultumust tulla ja siin kõigi nende inimeste ees öelda, et usk, mis neid elus hoiab on väär?
 v3.
+v3.* Keegi rahvamassist karjub: *
+v3.Elagu Aklupat!
+v3.Kao siit valeusuline!
 v3.
-v3.
-v3.
-v3.
-v3.
-v3.
-v3.
-v3.
-v3.
-v3.
-v3.
-v3.
-v3.
-v3.
-v3.
-v3.
-v3.
-v3.
-
-
-Variandid:
-1) Maagia (linnud)
-	a) Paljastad (teed järgi?)
-	b) Vaikid - rahvas naerab su välja.
-2) Sõnad (rahulik) - RAHVAS jääb magama.
-3) Sõnad (sõjakas) - Rahvas muutub vaenulikuks, ajab minema.
+v3.* Enne, kui jõuad oma kaitseks midagi öelda tõugatakse sind platsilt minema. *
+v3.* Kivid hakkavad sinu selja taga õhku tuiskama. *
+v3.* Kiiremaks pagemiseks võtad seeliku sabast kinni ja tormad koju, kus on turvalisem.  *
+v3.* See ei läinud kohe üldse hästi, ehk on homme parem päev. *
