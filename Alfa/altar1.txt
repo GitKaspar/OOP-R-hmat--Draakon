@@ -1,7 +1,7 @@
 v1.Õpilane:
 v1.Mind saadeti tegelikult ülesandega.
 v1.Sinu vagadus on preestrile muljet avaldanud.
-v1.Ta soovis sind isiklikult enda üle, et saaks sind terve koguduse ees tunnustada.
+v1.Ta soovis sind isiklikult enda juurde, et saaks sind terve koguduse ees tunnustada.
 v1.
 v1.* Mees tunneb rinnus uhkust, kuid proovib seda varjata. *
 v1.
@@ -25,7 +25,7 @@ v1.Mehike:
 v1.Suur tänu, nooruk.
 v1.Aklupat näidaku sulle teed!
 v1.
-v1.Meenutad eemalt kuuldud vormelit:
+v1.Meenutad eemalt kuuldud Aklupati jüngrite tervitust:
 v1.Kandku ta sind ja su karja!
 v1.
 v1.* Mees lahkub lagendikult ja kaob peagi. *
