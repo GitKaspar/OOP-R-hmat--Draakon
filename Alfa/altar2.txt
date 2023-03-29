@@ -21,7 +21,7 @@ v1.
 v1.Põgened. Väeti välimuse kohta on mees üllatavalt kiire. Pead pagema üha kaugemale ja kaugemale metsa.
 v1.Saad mehe eest küll peitu, aga selleks ajaks on päike juba looja seadmas.
 v1.Täna altari hävitamine ei õnnestu. Homme on ilmselt valve tugevam.
-v1.Jätad asja pooleli ja naased külla.v1.
+v1.Jätad asja pooleli ja naased külla.
 v2.* Näed, et tavalised sõnad siin ei aita. *
 v2.* Põlvitad ja võtad sisse loitsimisasendi. *
 v2.* Mees vaatab sind üksisilmi, aga ei saa aru, mida sa teed ega sekku. *
