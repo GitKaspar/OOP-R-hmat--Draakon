@@ -143,4 +143,23 @@ public class Abi {
             kaheneValik(failiNimi);
         }
     }
+
+    public static int valiKoht(List<Koht> kohaList) {
+
+        System.out.print("Sinu valik: \n");
+        Scanner valikuNr = new Scanner(System.in);
+        int sisestatudNumber = valikuNr.nextInt();
+
+        switch (sisestatudNumber) {
+            case 1 -> System.out.println(kohaList.get(0));
+            case 2 -> System.out.println(kohaList.get(1));
+            case 3 -> System.out.println(kohaList.get(2));
+            case 4 -> System.out.println(kohaList.get(3));
+            case 5 -> System.out.println(kohaList.get(4));
+            default -> {
+                System.out.println("Vahemikus 1-5, palun.");
+                valiKoht(kohaList);
+            }
+        } return sisestatudNumber;
+    }
 }
