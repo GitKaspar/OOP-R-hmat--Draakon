@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Peaklass {
-    public static void main(String[] args) throws Exception{
+    public static void main(String[] args) throws Exception {
         Abi.loeFailEtte("algus.txt");
 
         System.out.println("\n1. Alusta");
@@ -19,21 +19,15 @@ public class Peaklass {
         while (kohad.hasNextLine()) {
             String rida = kohad.nextLine();
             String[] tükeldatudRida = rida.split(";");
-            Koht uusKoht = new Koht(tükeldatudRida[0], Boolean.parseBoolean(tükeldatudRida[1]);
+            Koht uusKoht = new Koht(tükeldatudRida[0], Boolean.parseBoolean(tükeldatudRida[1]));
             kohaList.add(uusKoht);
         }
-        for (int i = 0; i < 5;) {
+
+        for (int i = 0; i < 5; ) {
+            int valik = Abi.valiKoht(kohaList);
+            
 
 
         }
-
-        int adlinValik1 = DialoogiHaru.dialoogiHaru(3, "adlin_test.txt");
-        switch (adlinValik1) {
-            case 1 -> DialoogiHaru.dialoogiHaru(3, "adlin_test1.txt");
-            case 2 -> DialoogiHaru.dialoogiHaru(2, "adlin_test2.txt");
-            case 3 -> System.out.println("See on ülesande tuum, aga hetkel välja arendamata. :(");
-        }
-
     }
-}
 }
