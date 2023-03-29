@@ -1,9 +1,0 @@
-Tutvustuses märge, et peab valetama.
-
-Valik 1 (Random)
-1) Usub sind.
-	a) Ütled, et libapreester kutsus teda vagaduse kiitmiseks - EDU - Paned põlema.
-	b) Ütled, et libapreester käskis altari hävitada - EBAÕNN - Võtab relva ja ajab mööda metsa taga
-2) Ei usu sind.
-	a) Ütled, et libapreester kutsus kiitmiseks - EBAÕNN - Võtab relva ja ajab mööda metsa taga
-	b) Moondad jüngri kanaks - EDU - Paned põlema.
