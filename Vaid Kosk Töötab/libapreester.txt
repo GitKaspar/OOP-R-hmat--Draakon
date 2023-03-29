@@ -1,70 +1,63 @@
-Külaplatsilt on kuulda kahtlast suminat. Lähemale jõudes on näha rahvahulka, kes on kogunenud puitpoodiumi ümber sellel kõnelejat kuulama.
-Tegu on küla "uue" šamaaniga, kes levitab püha Aklupati sõnumit.
-Vanem ütles, et ta üritab raskel ajal külarahva meeleheidet enda heaks ära kasutada ning tõtt-öelda puuduvad tal igasugused maagilised võimed.
-Vihmajumala siia meelitamiseks ei saa selline valeusu levitamine jätkuda. Temast peab kuidagi lahti saama.
+Külaplatsilt on kuulda tuttavat suminat. Lähemale jõudes on näha rahvahulka, kes on kogunenud puitpoodiumi ümber kõnelejat kuulama.
+Tegu on küla "teise" šamaaniga, kes, nagu alati, levitab oma loomjumala Aklupati sõnumit.
+Õpetaja ütles, et ta üritab raskel ajal külarahva meeleheidet enda heaks ära kasutada ning tegelikkuses puuduvad tal igasugused maagilised võimed.
+Vihmajumala meelitamiseks ei saa selline valeusu levitamine jätkuda. Temast peab kuidagi lahti saama.
 
-// Kui teine usk on juba külas kanda kinnitanud, ei ole sellised kogunemised vast eriti kahtlased. Teine šamaan ei oleks seega täiesti võõras (uus).
-// Vanema asemele võib ikka šamaan panna (ei ole selle koha pealt enam nii jäik). Maagiliste võimete asjus pole me veel kinnitust saanud.
+Mõtled endamisi. Kuidagi pead temaga jutule saama. Aga kogu selle rahva ees?
+Oma sõnadega tuleb siin ettevaatlik olla.
 
-Mõtled endamisi, kuidagi pead temaga jutule saama. Aga et siin kõige selle rahva ees... 
-oma sõnadega tuleb ettevaatlik olla.
-
-Libašamaan:
-Astuge lähemale, astuge lähemale! Teie jumal soovib teiega läbi oma isikliku sõnumitooja - minu muidugi - tarkust jagada.
+Aklupati šamaan:
+Astuge lähemale, astuge lähemale! Teie jumal soovib teiega läbi oma isikliku sõnumitooja - minu! - tarkust jagada.
 * Rahvas jälgib kõnepidajat suurte silmadega nagu jamalat ennast. *
 
 Õpilane:
-Terekest pühamees! Mitte ei taha sinu sõnavõtule siin vahele segada, aga meil kahel on veidi juttu vaja ajada.
-// Tooniga tegeleks ehk veidi. Jääb mulje, nagu kaks meest istuvad maha õlu jooma. :P
+Terekest, pühamees! Mitte ei taha sinu sõnavõtule siin vahele segada, aga mul on veidi vaja sinuga mõni sõna vahetada.
 
-Libašamaan:
+Aklupati šamaan:
 Noh mis juttu meil kahel ajada on? Tuli sul tüdtarlapsel lõpuks mõistus pähe ning muutsid oma usu asjus meelt?
-Sai sul ehk oma kasutust vihmajumalast villand?
-* Publik jõllitab sind vaikselt irvitades. *
-// Siin vaja sõnastust veidi sättida. Vaikuses vist probleem. Publik saab irvitada, aga kuivõrd on rahvamass võimeline vaikselt midagi väljendama?
-Mul ei ole mingeid saladusi oma rahva ees. Nii et kui sul mulle midagi öelda on võid seda juba meie kõigi ees teha.
-// Hea, enesekindel toon.
-Õpilane:
-* Vaatad veidi tagasihoidlikult sind ümbritsevat rahvamassi, kuid võtad julguse kokku. *
-// Tagasihoidlikkuse asemele alalhoidlikkus? Kas õpilane kardab? Kuis?
-Kuidas vastad?
-1. Süüdistad libašamaani võimeid võltsiks. // Variserlikkus, pettus
-2. Anud vastutulemist. // Esmapilgul veidi segane, kellele või millele vastu tullakse.
-3. Kuulutad Luvipa ainuõigeks jumalaks. // Üldine sõnastus veidi parem? Kaitsed rahva eest enda Luvipat vms?
+Sai sul ehk oma kasutust lombijumalast villand?
+* Publik jõllitab sind omaette irvitades. *
 
+Mul ei ole oma rahva ees mingeid saladusi. Nii et kui sul mulle midagi öelda on võid seda juba meie kõigi ees teha.
+
+Õpilane:
+* Vaatad alalhoidlikult sind ümbritsevat rahvamassi, kuid võtad julguse kokku. *
+
+Kuidas vastad?
+1. Süüdistad libašamaani pettuses.
+2. Palu šamaanil lõpetata Aklupati usu kuulutamine.
+3. Proovi veenda rahvast enda jumala ülemlikkuses.
 v1Õpilane:
 v1.Ah et sul ei ole rahva eest midagi varjata? 
-v1.Ise oled võlts ja petis, kes ei oska õiget maagiatki! // Väiksem sõnastuse nihe tarvis - jätab võimaluse, et oled ka "võlts (OS), kes ei oska maagiatki"
+v1.Sinu võimed on võltsid ja ise oled sa petis, kes ei oska õiget maagiatki!
 v1.
 v1.Libašamaan:
 v1.Kallis neiu, kas tõesti pean ma oma võimeid sulle tõestama?
 v1.Kui see sinu südame rahulikumalt tuksuma paneb, siis eks ma näitan, mida teha suudan.
 v1.
-v1.* Külarahvalt on kuulda elevil sosinaid. * // Rahva seast ehk
+v1.* Külarahva seast on kuulda elevil sosinaid. *
 v1.
-v1.* Pühamees sulgeb oma silmad * // Väike asi, aga "oma" pole vist vaja - teiste silmi ta sulgeda ei saa.
-v1.* Sirutab käe kaugusesse seda valjult ümisedes edasi-tagasi liigutades, kuni jääb seisma platsi ääres oleva puitkastide virna juurde. *
+v1.* Pühamees suleb silmad ja hakkab ümisema. *
+v1.* Sirutab käe kaugusesse ja liigutab seda justkui otsides edasi-tagasi. Lõpuks jääb käsi seisma puitkastide virnale platsi ääres. *
 v1.
-v1.Libašamaan:
-v1.Ma tunnetan oma võimetega, et selle kastide hunniku tagant lendab täpselt 10 sekundi pärast välja valge tuvi.
-// 10 sekundit on probleemne - eeldab, et neil on külas ajamõõtmisühikud, mis arvestavad sekundi täpsust. Tunnid on vist selle aja kohta kõige suurim sobilik üksus.
-v1.* Sa vaatad koos rahvahulgaga kätteantud suunas ja ootad. *
+v1.Aklupati šamaan:
+v1.Ma tunnetan oma võimetega, et selle kastide hunniku tagant lendab kohe-kohe välja valge tuvi.
+v1.* Sa vaatad rahvahulgaga etteantud suunas ja ootad. *
 v1.
 v1.* Hetk hiljem tõusebki väike valge lind kastide tagant lendu. *
 v1.
 v1.* Rahvamass hakkab imestusega plaksutama. Šamaan on oma võimeid tõestanud. *
 v1.
-v1.Mida teha järgmisena?
-v1.1.Näitad oma võimeid vastu. // Natuke vaja korrigeerida.
-v1.2.Vaikid, olles šamaani trikist sõnatu. // Siin võiks ehk isegi otsekõne kasutada - oleks mõjusam.
-
+v1.Mida nüüd küll teha?
+v1.1.Näitad rahvale ka oma võimeid. 
+v1.2.Pole midagi öelda: mees on enda võimeid tõestanud.
 v1.v1.Õpilane:
-v1.v1.Minagi oskan oma talendiga uhkeldada. // Talent on veidi ohtlik sõna (vanemas rahvusvahelises pruugis on see tegelikult mõõtühik)
+v1.v1.Ka minul on teile üht-teist näidata.
 v1.v1.
-v1.v1.* Võtad loitsumisasendi sisse ning hakkad mälu järgi sõnu lausuma. *
-v1.v1.* Suunad oma käe selle sama puukasti hunniku poole, mille tagant tuvi oli hetk varem välja lennanud ning viimaseid sõnu lausudes pahvatab virn leekidesse. *
-v1.v1.* Kostab karje ning leekide tagant jookseb välja suitsevate pükstega mees, linnupuur kätevahel. *
-v1.v1.* Rahvas hakkab omavahel valjult rääkima ning iga hetkega muutub nende toon vihasemaks. *
+v1.v1.* Võtad loitsumisasendi sisse ning hakkad mälu järgi vanu nõidusi lausuma. *
+v1.v1.* Suunad oma käe selle sama puukasti hunniku poole, mille tagant tuvi oli hetk varem välja lennanud, ning viimaseid sõnu lausudes pahvatab virn kärgatusega leekidesse. *
+v1.v1.* Kostab karje ning kastihunniku tagant jookseb välja suitvate pükstega mees, linnupuur kätevahel. *
+v1.v1.* Rahva seas vallandub pomin ning iga hetkega muutub selle hääletoon vihasemaks ja valjemaks. *
 v1.v1.
 v1.v1.Õpilane:
 v1.v1.Sa ise käskisid oma meestel selle tuvi lendu laste? On nii?
@@ -72,90 +65,88 @@ v1.v1.Ma teadsin et sa oled üks suur rahva pettur! Mitte midagi muud! // Saaks 
 v1.v1.
 v1.v1.* Inimmass, nüüd juba päris ärritunud hakkab libašamaani peale karjuma ning talle lähemale liikuma. *
 v1.v1.
-v1.v1.Libašamaan:
-v1.v1.Kuulge rahavas, semud, sõbrad... Olge nüüd. 
-v1.v1.Te ju teate ja tunnete mind, ma ei valetaks teile nii. // Kaks lauset ehk parem.
-v1.v1.See vana küla Karel on ju joodik ja jäi arvatavasti lihtsalt sinna kasti virna taha magama... // Peaks täpsemalt viitama, et Karel oli kastide taga.
+v1.v1.Aklupati šamaan:
+v1.v1.Rahvas, kuulake mind! Jüngrid, sõbrad... Olge nüüd! 
+v1.v1.Te ju teate ja tunnete mind. Mina ei valetaks teile nii.
+v1.v1.Ega kastide taga polnud keegi muu kui vana joodik Karel, kes arvatavasti lihtsalt tolle sammuse hunniku taha magama jäi...
+v1.v1.Sellest ei saa ju midagi järeldada!
 v1.v1.
-v1.v1.* Ennem kui libašamaan oma lauset õieti lõpetada suudab lennutatakse tema poole juba kive. *
-v1.v1.* Vaatad, kuidas teine oma elu hoidmiseks külast varvast viskab. *
+v1.v1.* Enne kui šamaan oma lause õieti lõpetada suudab, lennutatakse tema poole juba kive. *
+v1.v1.* Vaatad, kuidas teine varjub ja lõpuks oma elu hoidmiseks külast varvast viskab. *
 v1.v1.
 v1.v1.* Rahvamass tormab šamaanile järgi. Tunned ennast tehtu üle uhkelt. *
 v1.v1.* Tundub, et eesmärk sai täidetud ja valeusu levitaja külast ära aetud. *
 v1.v1.* Lähed koju, et enne homset veidi sõba silmale saada. *
 
 v1.v2.Mõtled veidi endamisi.
-v1.v2.Ehk oli tõesti mu õpetajal küla uue šamaani üle ekslik arvamus...
-v1.v2.Võibolla toob see tulevikus külale rohkem kahju nii heade annetega loitsjat ära ajada?
+v1.v2.Ehk oli tõesti su õpetajal küla uue šamaani asjus ekslik arvamus...
+v1.v2.Võibolla toob see tulevikus külale rohkem kahju nii tugevate ennustusannetega loitsjat ära ajada?
 v1.v2.
-v1.v2.Libašamaan:
+v1.v2.Aklupati šamaan:
 v1.v2.Noh, kuhu su jutukus nüüd siis kadus? Tahtsid ju miskit minuga rääkida? 
 v1.v2.Või laususin su kogemata tummaks?
 v1.v2.
-v1.v2.* Šamaan hakkab koos rahvaga naerma. *
-v1.v2.* Tunned piinlikustunnet. *
+v1.v2.* Šamaan hakkab koos rahvaga kahisevalt naerma. *
+v1.v2.* Tunned piinlikust. *
 v1.v2.
 v1.v2.Õpilane:
 v1.v2.Jah, pean tunnistama, et süüdistasin sind alusetult, kallis pühamees.
 v1.v2.
-v1.v2.Libašamaan:
+v1.v2.Aklupati šamaan:
 v1.v2.Ei ole hullu tüdrukutirts. 
-v1.v2.Nüüd kus sa oled päris võimeid näinud võid sa minna ja oma šamaanile ka üht-teist õpetada.
+v1.v2.Nüüd, kus sa oled päris võimeid näinud, võid sa minna ja oma šamaanile ka üht-teist õpetada.
 v1.v2.Teist kahest võib veel asja saada, kuigi ma selles väga kahtlen...
 v1.v2.
 v1.v2.* Rahvamass ei suuda oma itsitamist kinni hoida ning hakkab sind jõllitades laginal naerma. *
 v1.v2.
-v1.v2.* Oled oma au sisse augu mänginud ning siin vestluses sulle enam võiduvõimalust ei paista olevat. *
-v1.v2.* Taganed saba jalge vahel külaplatsilt ja otsustad minna koju patja nutma. Mine tea, homme võib olla parem päev *
-// See ots on minu arvates päris hea. Šamaani oled hästi tabanud ja Õpilase kohkumus tuleb selgelt edasi.
-v2.Ma tulen sinu jutule kõige heaga ning paluksin sinult alandlikult abi.
-v2.Meil on külavanemaga plaan kutsuda välja Vihmajumal, kuid selleks, et Luvipat veenda oleks vaja, et teie Aklupati usu levimine lõppeks.
+v1.v2.* Oled häbisse jäänid. Siin vestluses sulle enam võiduvõimalust ei paista olevat. *
+v1.v2.* Taganed saba jalge vahel külaplatsilt ja otsustad minna koju patja nutma. Mine tea, homme võib olla parem päev. *
+v2.Ma tulen su jutule heas usus ja palun alandlikult sinu abi.
+v2.Meil on külavanemaga plaan kutsuda välja Vihmajumal, kuid selleks oleks vaja, et teie Aklupati kultusega lõpetaksite.
 v2.
 v2.* Šamaan jääb hetkeks mõtlikult sulle otsa vaatama. *
 v2.
-v2.Libašamaan:
-v2.Ma peaksin oma usule selja keerama lihtsalt, et teie kasutu jumal enda kohustusi tõsiselt võtaks?
+v2.Aklupati šamaan:
+v2.Ma peaksin oma usule selja keerama lihtsalt selleks, et teie kasutu jumal enda kohustusi tõsiselt võtaks?
 v2.
 v2.Hah... mina nii ei arva.
-v2.Sa pead minu ja ennekõike külarahva veenimiseks enamat tegema.
+v2.Sa pead minu ja ennekõike külarahva veenimiseks palju enamat tegema.
 v2.
 v2.Õpilane:
 v2.* Need inimesed on liiga sügavale valeusku vajunud. Sul on idee, mis võib neile meelde tuletada küla õigeid esivanemate uskumisi. *
 v2.* Võtad taskust pühakirja, mis sul alati kaasas on ning hakkad valjult sellel olevaid ridu ette lugema. *
 v2.
-v2.Vihma jumal täitku teid rõõmu ja rahuga, kui te Teda usaldate, et te saaksite Püha Vaimu väel lootusega täidetud. // Püha Vaimu viide kaldub kristlusesse
-v2.Kui mu rahvas, keda kutsutakse minu jumala uskujateks, alandab end ja palvetab ning pöördub oma kurjadelt teedelt, siis ma kuulen taevast ja annan andeks nende patud ja tervendan nende maa. // Väga Vana testament. :D
+v2.Vihma jumal täitku teid rõõmu ja rahuga. Kui te Teda usaldate, et te saaksite Luvipa armust lootusega täidetud.
+v2.Kui mu rahvas, keda kutsutakse minu jumala uskujateks, alandab end ja palvetab ning pöördub oma kurjadelt teedelt, siis ma kuulen taevast ja annan andeks nende eksimused ja tervendan nende maa.
 v2.
-v2.* Sinu üllatuseks on jäänud publik sind kuulama. *
-v2.* Isegi libašamaan isiklikult hoiab, kuigi vastu oma tahtmist, oma kõrvad lahti, teades, et pühakirjade ettelugemisele vahele segamine ei jätaks temast head muljet. *
+v2.* Sinu üllatuseks on publik jäänud kuulama. *
+v2.* Isegi Aklupati šamaan isiklikult hoiab, kuigi vastu oma tahtmist, oma kõrvad lahti, teades, et pühakirjade ettelugemisele vahele segamine ei jätaks temast head muljet. *
 v2.
 v2.Looda püha Luvipa peale kogu südamest. Tunnustage Teda kõigil oma teedel ja Tema teeb teie teed tasaseks...
 v2.
 v2.* Loed ühe lõigu teise järel, kes teab mitu tundi järjest kuni lõpuks jõuad viimase leheni. *
-v2.* Teksti otsa saamisel tõstad pilgu publikule, lootes, et nüüd on neid lihtsam veenda. *
-v2.* Kõik on aga ümberringi igava jutu peale magama jäänud või koju jalutanud, libašamaan kaasaarvatud. *
+v2.* Kui tekst läbi, tõstad pilgu publikule, lootes, et nüüd on neid lihtsam veenda. *
+v2.* Kõik on aga ümberringi igava jutu peale magama jäänud või koju jalutanud, Aklupati šamaan kaasaarvatud. *
 v2.
 v2.* Vaatad veel korra pettunud näoga ringi teades, et sinu plaan on luhta läinud. *
 v2.* Siin ei ole enam midagi teha. Isegi päike on loojas. *
 v2.* Pistad pühakirjad kärsitult tasku tagasi ja lähed koju magama. *
-// Mhm. Natuke mõni detail vajaks ülevaatamist (nt raamat), aga üldiselt hea toon.
 v3.Õpilane:
 v3.Ma tulin sinu ja su liitlaste levitatud petujutule lõppu tegema.
-v3.Liiga kaua oled sa hoidnud halli varju üle meie küla.
-v3.Ja meie ainuõige jumala Luvipa eemale peletanud.
+v3.Liiga kaua oled sa hoidnud halli varju üle meie küla ja meie ainuõige jumala Luvipa eemale peletanud.
 v3.
-v3.Libašamaan:
+v3.Aklupati šamaan:
 v3.Ah et minu Jumal on vale?
 v3.
-v3.* Rahvamassilt on kuulda sosinaid. *
+v3.* Rahvamassist on kuulda sosinaid. *
 v3.
 v3.Kes on hoidnud meie küla aastaid elus, siis kui teie usk meid alt vedas?
 v3.Kas mitte ei ole selleks meie päästja Aklupat ise?
 v3.
 v3.Sina ja su õpetaja olete just need, kes meie hävingus süüdi on!
 v3.
-v3.* Rahvas muutub rahutuks ja on kuulda nõstuvaid karjeid. *
-v3.* Asi on selge. Inimesed pooldavad libašamaani valesid. *
+v3.* Rahvas muutub rahutuks ja on kuulda nõstuvaid hõikeid. *
+v3.* Asi on selge. Inimesed pooldavad selle šamaani valesid. *
 v3.
 v3.Sul on veel jultumust tulla ja siin kõigi nende inimeste ees öelda, et usk, mis neid elus hoiab on väär?
 v3.
@@ -164,7 +155,6 @@ v3.Elagu Aklupat!
 v3.Kao siit valeusuline!
 v3.
 v3.* Enne, kui jõuad oma kaitseks midagi öelda tõugatakse sind platsilt minema. *
-v3.* Kivid hakkavad sinu selja taga õhku tuiskama. *
-v3.* Kiiremaks pagemiseks võtad seeliku sabast kinni ja tormad koju, kus on turvalisem.  *
+v3.* Kivid hakkavad sinu suunas tuiskama. *
+v3.* Kiiremaks pagemiseks võtad rüüsabast kinni ja tormad koju, kus on turvalisem.  *
 v3.* See ei läinud kohe üldse hästi, ehk on homme parem päev. *
-// Natuke lisaks ehk sisu, aga üldine toon on täitsa hea.
