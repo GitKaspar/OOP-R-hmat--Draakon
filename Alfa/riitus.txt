@@ -27,7 +27,7 @@ v2.Tömpsuu eritis jäi kogumata, sellest oleks hetkel rituaali juures palju abi
 v1.Luvipale teeb kindlasti palju rõõmu, kui kohale tulles märkab, et rivaalide altarit enam ei ole.
 v1.Su meel muutub rõõmsamaks teades, et oled selle ülesandega hästi hakkama saanud.
 v2.Su mõtetesse kargab hetkeks hirmutunne.
-v2.Sa ei saanud Aklupa altari hävitamisega hakkama, ehk tuleb vihmajumal sellest vaatmata kohale?
+v2.Sa ei saanud Aklupa altari hävitamisega hakkama, ehk tuleb vihmajumal sellest vaatamata kohale?
 
 v1.Hingad veidi kergemalt teades, et valeusku levitav šamaan on külast ära aetud.
 v1.Nüüd ei ole Luvipal siin mitte ühtegi rivaali.
@@ -64,13 +64,13 @@ v2.
 v2.Ja oh seda imet!
 v2.Taevast lendas alla justkui tuulel libisedes pikk ussikehaga elukas, kes iga hetkega lähenedes suuremaks muutus.
 v2.Siis ta seisatas ja jäi rahva kohale hõljuma.
-v2.Ta keha katsid soomused ja uimed ning ta tervad hambad olid hirmuäratavad.
+v2.Ta keha katsid soomused ja uimed ning ta teravad hambad olid hirmuäratavad.
 v2.Kostus järgmine möiratus.
 v2.
 v2.Rahvas oli vapustatud, kes nuttis, kes naeris.
 v2.Kogud ennast hetkeks, kuid siis palud kõvahäälselt terve rahva ees vihmadraakonit.
 v2."Ma anun kogust südamest."
-v2."Kallist taevasisalik, õnnista minu piinlevaid õdesid ja vendu veega."
+v2."Kallist taevasisalik, õnnista minu piinlevaid õdesid ja vendi veega."
 v2."Pikka aega oleme me kannatanud ja nüüd täna just sinu enda suvipühal oleme kõik siin, et sind tähistada."
 v2.
 v2.Luvipa on hetkeks liikumatu, kuid siis laseb taeva poole valla kõrvulukustava karje.
