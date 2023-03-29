@@ -3,25 +3,35 @@ Suvipüha on kohal, sellega ka riituse päev.
 Külaelanikud on teinud šamaani telgi ees olevale platsile uhke lõkke.
 Kuulda oli juttu ja kilkeid ning mõni julgem keksles ka tule ümber tantsu.
 
-Sina aga põlvitasid tule ette ning valmistasid ennast tseremooniaks.
+Sina aga põlvitasid tule ette ning valmistusid tseremooniaks.
 Kõik sinu viie päeva vaev peab täna vilja kandma, muidu on küla tulevik hukas.
 Käes on tõehetk.
 
 //(RANITS:)
-Alpaka: 
-v1.
-v2.
-//Viirukid:
-v1.
-v2.
-//Tömpsuu eritis:
-v1.
-v2.
+
+v1.Nagu Jürkale lubatud moosisid sa Sannale tema kohta igasugust head kokku, tüdruk tundus isegi meelitatud olevat.
+v1.Vastutasuks said uhke ohvriloooma.
+v1.Haarad alpakal kaelast ning tehes kindlaks, et loom ei kannatakse, saab kiire noa lõikega rituaal uhke alguse.
+v2.Üritasid, mis sa üritasid, ei õnnestunud sul Jürka käest ohvrilooma kätte saada. 
+v2.Sel korral jääb rituaal ilma vereohverduseta.
+
+v1.Sulle meenub Adlini käest saadud viirukid. Need peaks süütama kähku, et nende aroom jõuaks kaugemale levida.
+v1.Just seda sa järgmisena teedki.
+v2.Nüüd oleks hea viirukid põlema panna, kuid hullu naise jändamise tagajärjel oled sa nendest ilma.
+
+v1.Viirukisuitsust rääkides... Vihmajumala tähelepanu püüdvat lõhna levitab ju ka koseveest leitud tömpsuu eritis.
+v1.Otsid välja kogutud nõre ning lased sellel vaikselt lõkke lähedal keeda.
+v2.Sulle tuleb meelde läbikukkumine kose juures.
+v2.Tömpsuu eritis jäi kogumata, sellest oleks hetkel rituaali juures palju abi olnud.
 //Altar:
-v1.
-v2.
+v1.Luvipale teeb kindlasti palju rõõmu, kui kohale tulles märkab, et rivaalide altarit enam ei ole.
+v1.Su meel muutub rõõmsamaks teades, et oled selle ülesandega hästi hakkama saanud.
+v2.Su mõtetesse kargab hetkeks hitmutunne.
+v2.Sa ei saanud Aklupa altari hävitamisega hakkama, ehk tuleb vihmajumal sellest vaatmata kohale?
 //Aklupati šamaan:
-v1.
+v1.Hingad veidi kergemalt teades, et valeusku levitav šamaan on külast ära aetud.
+v1.Nüüd ei ole Luvipal siin mitte ühtegi rivaali.
+v2.
 v2.
 
 //(1-2/5)
