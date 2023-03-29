@@ -54,150 +54,132 @@ TUTVUSTUS
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Küla šamaan lasi sind enda juurde kutsuda. Tulid tema telki ja ootad nüüd seletust. *
+
 Tule lähemale, tüdruk, ja kuula hoolega.
-Pan sinuga üht-teist rääkima.
-... VIIVITUS?
-Päike on sel suvel armutu.
+Pean sulle üht-teist rääkima.
+
+Päike on sel suvel olnud armutu.
 On oht, et saak läheb luhta ja sügisel ootab külarahvast nälg.
 Meil on vaja abi ülevalt. 
-Draakon on vaja välja kutsuda.
-... VIIVITUS?
-Ma tean, mida tegema peab, aga selleks on vaja nooremajalgu.
-Nagu sa juba tead, ei liigu ma selle seljaga enam eriti kuhugi.
+Vihmajumal Luvipa vaja välja kutsuda.
+
+Ma tean, mida tegema peab, aga selleks on vaja nooremaid jalgu.
+Minu vanuses ei liigu inimene enam üldse.
 Sa pead mind aitama.
-Peame ette valmistama HEA NIMEGA riituse.
-Siis tuleb draakon. Toob vihmad tagasi.
+Peame ette valmistama kutsumisriituse.
+Siis tuleb jumal. Toob vihmad tagasi.
+
 Kui sa sellega hakkama saad, oled end juba küllalt tõestanud: võid minu asemel šamaan olla.
-Kui sa sellega hakkama saad, pääseb rahavas.
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-TUTVUSTUS 2
-
-Ülesannete tutvustused (šamaan)
-
-Aksolotl - eritab nõre, mis teeb veedraakoni nostalgiliseks,
-Adlin - oli vana viirukimeister, juhtus tragöödia ja pani varudega plehku,
-Šamaan 2 - aja minema,
-Altar - pane põlema/hävita,
-Alpakaohver - Jakrü
-
-Toortekst:
+Kui sa sellega hakkama saad, näeme järgmist aastat.
 
 Ma seletan nüüd lähemalt.
-Et draakon välja meelitada peame tema nimel sooritama erinevaid tegusid.
-Jumal tahab tunnustähti: tahab kinnitust, et rahvas austab just teda.
+Et Jumal välja meelitada peame tema nimel sooritama erinevaid tegusid.
+Luvipa tahab tunnustähti: tahab kinnitust, et rahvas austab just teda.
 
-Selleks on meil vaja astuda samme nende salakavalate alpakute vastu. Liiga kaua on nad külas valeusku levitanud.
-Kui suudad nende koguduse ridu nõrgestada, näiteks nende šamaani välja ajamise teel, oleks see draakonile meelepärane.
-Olen ka kuulnud, et tolvanid püstitasid talle metsa mingi altari. Riitustele seal tuleks lõpp teha.
+Selleks on meil vaja astuda samme nende salakavalate aklupa-usuliste vastu. Liiga kaua on nad külas oma valesid levitanud.
+Olen kuulnud, et tolvanid püstitasid talle metsa mingi altari. Sellest valepühamust oleks vaja lahti saada.
 
 Siis oleks meil veel vaja mõnda asja riituse enda jaoks.
-Uhke ohvriloom tuleks kasuks. Äkki suudad keelitada Jürka mõnest oma elukast loobuma?
+Uhke ohvriloom tuleks kasuks. Äkki suudad keelitada Jürka mõnest oma alpakast loobuma?
 
-Olen ka kuulnud, et vanas tiigis elavad elukad, kelles vanast jumalast endalt põlvnevad.
-Nood elukad eritavad tugeva lõhnaga ainet, mida vaarisa kaugelt haista suudab.
-Märk lapsukestest ärataks kindlasti draakoni tähelepanu.
+Olen ka kuulnud, et vanas tiigis elavad elukad, kes vanast jumalast endast põlvnenud pidid olema.
+Nood loomad eritavad tugeva lõhnaga ainet, mis aitab Luvipa tähelepanu tõmmata.
 
-Viimaseks asjaks oleks viiruk. Vanad riitused said kõik suure viirukisuitsu saatel sooritatud, aga viirukimeistrit ei ole enam.
-Viimasega juhtus hirmus õnnetus. Kogu pere surnud. Naine ei elanud seda üle - läks hulluks.
-Oleks asi vaid sellega piirdunud... Ta pages külast ja võttis kogu viirukivaru kaasa.
-Aastaid pole me jumalat õiget viisi austada saanud. Uut meistrit ei ole tekkinud.
-Kui suudad eide üles leida ja teda viirukist loobuma keelitada, saaksime korraliku riituse läbi viia.
+Viimaseks asjaks oleks viiruk. Vanad riitused said kõik suure viirukisuitsu saatel sooritatud, aga viirukimeistrinnat külas enam ei ole.
+Viimasega juhtus hirmus õnnetus. Kogu pere surnud. Naine ei elanud seda üle - läks hulluks ja põgenes viirukivaruga metsa.
+Kui suudad eide üles leida ja teda viirukist loobuma keelitada, saame õige riituse läbi viia nagu vanasti.
 
-Heakene küll. Ma pean nüüd sisse minema ja puhkama.
-Usun sinusse! Mine ja too meile vesi!"
+Heakene küll. Ma pean nüüd pikali heitma ja puhkama.
+Usun sinusse! Mine ja too meile vesi!
+"Öö!" ütleb too ägisedes lõpetuseks.
+
+* Šamaan seab end asemele pikali. Sa tõused ja väljud telgist. *
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 VALEŠAMAAN
 
-Külaplatsilt on kuulda kahtlast suminat. Lähemale jõudes on näha rahvahulka, kes on kogunenud puitpoodiumi ümber sellel kõnelejat kuulama. "Astuge lähemale, astuge lähemale! Teie jumal soovib teiega oma  läbi oma isikliku sõnumitooja - minu muidugi - tarkust jagada." Tegu on küla "uue" šamaaniga, kes levitab püha alpaka sõnumit. Õpetaja ütles, et ta üritab raskel ajal külarahva meeleheidet enda heaks ära kasutada. 
+Külaplatsilt on kuulda tuttavat suminat. Lähemale jõudes on näha rahvahulka, kes on kogunenud puitpoodiumi ümber kõnelejat kuulama.
+Tegu on küla "teise" šamaaniga, kes, nagu alati, levitab oma loomjumala Aklupati sõnumit.
+Õpetaja ütles, et ta üritab raskel ajal külarahva meeleheidet enda heaks ära kasutada ning tegelikkuses puuduvad tal igasugused maagilised võimed.
+Vihmajumala meelitamiseks ei saa selline valeusu levitamine jätkuda. Temast peab kuidagi lahti saama.
 
+Mõtled endamisi. Kuidagi pead temaga jutule saama. Aga kogu selle rahva ees?
+Oma sõnadega tuleb siin ettevaatlik olla.
 
-V1: Draakoni siia meelitamiseks ei saa selline valeusu levitamine jätkuda. Ma pean ta kuidagi peatama / siit külast ära ajama.
-V2: Vihmadraakonile teeks kindlasti rõõmu, kui ta vastase jüngritel külas enam kandepinda ei oleks.
-
-1)
-2)
-3)
+Aklupati šamaan:
+Astuge lähemale, astuge lähemale! Teie jumal soovib teiega läbi oma isikliku sõnumitooja - minu! - tarkust jagada.
+* Rahvas jälgib kõnepidajat suurte silmadega nagu jamalat ennast. *
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-ALPAKAPIDAJA
+JÜRKA
 
-"Tere, Ajükr, või mis iganses su nimi on"
+Karjakasvataja ei ela kaugel.
+Sammud lühikese ajaga tema juurde mööda nii inimeste kui alpakade poolt sisse käidud rada.
+Mõtled, et kõige tervem loom oleks hea ohvriks saada.
+
+Jõuad Jürka aedikuni ja näed meest ennast: pikk ponks mehehakatis, kes tühjusesse vaadates tarale nõjatub.
+Ta märkab sind.
+
+Jürka:
+Tervist, neiu! Mis sinusugust usurahvast siia kanti toob?
+Viimati te meisse Aklupati jüngreisse väga hästi ei suhtunud.
+Või on olud nüüd teised?
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 KOSK
 
+Jõuad koseni, mille kahin viimsete aegade kuumuse tõttu varajasemast on väetim.
+
+Pardikesed liuglevad veepinnal siia sinna. Mõni proovib meeleheitlikult ammutada toidupoolist vähestest
+kiduratest taimedest, mis kose poolt toidetava tiigi kaldal veel säilivad. Vastaskaldal lehkab jäneseraibe.
+
+Otsitav elukas (tõmpsuu) ei pidanud vee seest väga tihti välja tulema. Otsida saaks siin kas kose alt,
+tiigi kaldalt või - kui suplema vaevud - ka tiigi põhjast.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-HULL ADLIN // Kauge PTSDga skisofreenik (frukt)
+ADLIN
 
-VERSIOON 2 (naljatav) : 
+Saabud metsatukal asetseva vana laguneva puitmaja juurde, mille uks haigutas pooleldi lahti ja tekitas tuulega tantsides kriginaid.
+Metsik rohelus, nüüdseks suures osas juba kolletav, on ümbrusesse jõulise pealetungi sooritanud.
+Mõni ütleks, et tegemist on kutsumata külalisega. Sa ei ole nendega ühel meelel.
 
-Saabud metsatukal asetseva vana puitmaja juurde, mille uks haigutas pooleldi lahti ja tekitas tuulega tantsides kriginaid. 
+* Hõigud lootuses, et keegi sulle vastab. *
 
-/ALT: Metsik rohelus, nüüdseks suures osas juba kolletav, oli maja ümbrusesse jõulise pealetungi sooritanud. Mõni ütleks, et tegemist on kutsumata külalisega, aga sa ei ole nendega ühel meelel.
-Maja ümbrus oli lastud looduse poolt üle võtta, arvestades, et see kunagi sealt üldse lahkunud oleks. Kiire “Ae! On siin keegi?” saab vastuseks majast kostva üllatunud karje, mille järel ilmus juba 
-avatud ukseavasse väga kohkunud, kuid rõõmsa näoga vanem naisterahvas, kelle katkised ja määrdunud rõivaid teatasid mulle, et see on täpselt õige isik, keda ma otsinud 
-olen.
+Ae! On siin keegi?
 
-// ALT: ei saa kontakti ja lähed saba jalge vahel tagasi. Ilmselt on eit juba ammu surnud.
-
-Hull Adlin – Oi! Mis see siis on? // Külaline? Imeline! ... Aga kes sa selline oled? *kratsib kukalt*
-
-Õpilane - "Tervist! Küla šamaan saatis mind. Oled ilmselt näinud raskeid aegu ümber ringi. Me vajame vett. Veedraakon on vaja välja kutsuda aga korraliku viirukita me sellega hakkama ei saa. Olen kuulnud, et sa olid küla parim viirukimeister, oskad meid aidata." 
-
-Hull Adlin -  Heheh... aga tühja see viiruk! Aita mul parem mesilased minu mesitarus üle lugeda. Iga suvi lendab sindrinahku nii palju ringi, ag iga talv on nad kõik kadunud. Pean välja selgitama, kes see saatan minu mesilasi varastab. Tule, tule kähku! 
-
-Õpilane - "Kallis eit, kas sa siis ei tea, et kõik sitikad talveks puhkama lähevad? Praegu vanu sitikaid tagasi ei saaks. Äkki tuled meile ikka vastu ja aitad riituseks viirukiga varustada?"
-
-Hull Adlin -  Ahh.. mis sa patrad oma viirukitest, sinuga pole üldse lõbus. Mul vist oli siin veel mingi varu, millega ma midagi ei tee. Aga kaasa saad sa selle ainult juhul, kui sa arvad ära ühe minu mõistatuse. Usu mind, see saab olema lõbus! Mulle nii meeldib mõistatusi välja mõelda! Esitan neid tütrekesele kogu aeg. Eksju Alima?
-
-// kuni 2 esitatakse?
-
-MÕISTATUSED : 
-
-1.	Ma elan talvel ning suren suvel. Ma kasvan juured ülespoole ja nutan päikest nähes allapoole. Mis ma olen?
-
-1) Jääpurikas *
-2) Mägi
-3) Lumi
-...
-
-Hah! Vale! Jääpurikas on õige. Adlin.nori(); No, proovime korra veel.
-
-2.	Ma lendan ilma tiibadeta ja nutan ilma silmadeta. Mis ma olen?
-
-1) Suits
-2) Pilv *
-3) Tuul
-V) Naabrimees Lalke, siis kui mõned õlud sees
-
-Ei. Vale vastus! Õige vastus on pilv. No, proovime korra veel.
-
-3.	Ma istun tähtede taga ja mägede all. Ma täidan tühjad augud ja mind ei saa katsuda. Mis ma olen?
-
-1) ruum
-2) saladus
-3) pimedus
-
-Kui 2 vale – Haha! Su vastus on vale! Õige vastus on pimedus. Küll sina oled ikka kehv mõistataja. See tähendab, et sa oled oma viirukitest ilma. Kasi nüüd! Mul vaja mehega tähtsaid asju rääkida.
-
-Kui õige – Assa... kuidas sa selle ära arvasid? See oli üks mu parimaid mõistatusi.
-*Eit vaatab veidi segaduses ringi* Nojah. Eks ma siis lubasin. Tule ma näitan nad sulle kätte. Ära laste karjumist tähele pane.
-*Lähed eidega koos läbi tühja vaikse ja sassis ruumi. Ta kaevab katete ja pilbaste hunnikust välja suletud kasti ja ulatab sulle. Kontrollid sisu. Veel kasutuskõlblik materjal. Tänad eite ja asud teele küla poole. Eit hakkab seina peale karjuma, kui lahkud.*
+Vastuseks kostab majast üllatunud karje.
+Ukseavasse ilmub kohkunud ilme, kuid rõõmsa näoga vanem naisterahvas.
+Paistab, et leidsid selle, keda otsisid.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 VALEJUMALA ALTAR
 
-// Külas: keegi tuleb lehmana tagasi.
+Altari asukoht ei ole täpselt teada.
+Liigud metsa suunas ja loodad, et märkad midagi uut ja teistsugust.
+Esialgu ei ole otsing edukas. Tuttav puudemuster, kõik loomulik.
+Natukese aja pärast kuuled aga hääli endast paremal.
+Astud lähemale ja kuuled, kuis keegi üht ja sama asja kordab:
 
-LISA (Kaspar):
-* Pakuks, et Šamaani võiks ümber Vanemaks nimetada - eestipärasem.
-* Teksti kuvamise dilemma: kas tekst liigub edasi kasutaja kliki peale või omas tempos? Hübriidlahendus ehk parim, aga see vajab rohkem aega.
+Vii meid oma karjade maale. Anna mehele, loomale jõudu.
+Löö särama lakk ja juus, et laul oleks alluva suus.
+Me jumal on vägev ja julge. Aklupat: tema seljatab õudu.
+Mina vaga ja ei taha muud, kui et usk oleks homme kui uus.
+
+Kõlab nagu usutalitus. Pole meie jumal, keda seal kummardatakse: vast õige koht.
+Lähed veel lähemale ja jõuad ühe lagendiku piirile.
+Keset lagendikku näed uhket puidust altarit, mida hoiavad üleval kolm puidust tahutud alpakapead: Aklupati altar.
+Altari ees kummardab ja jätkab oma palvetega üks kõrendlik keskealine mees.
+Ta märkab sinu saabumist ja pöörab ümber.
+
+Proovides muutusele reageerida, meenutad, et õpetaja manitses kavalusele.
+Proovid jätta mulje, et oled uue usu omaks võtnud.
+
+Mehike jõuab sind enne kõnetada:
+Kes tuleb? Igasugustel siin kohta ei ole.
