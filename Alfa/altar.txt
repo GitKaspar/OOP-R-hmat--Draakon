@@ -34,10 +34,7 @@ Ma ei usu enam teda ja ta lubadusi.
 Olen hiljuti just Aklupati saladustesse pühendatud ja tulin pühamut kaema.
 Kuidas muidu oleksin ma altari leidnud?
 
-RANDOM
-1. Mehike usub.
-2. Mehike ei usu.
-
+* Pole kindel, kas mehike uskuma jäi... *
 v1.Mehike:
 v1.Saan aru. Rasked ajad õpetavad meile kõigile palju.
 v1.Mitmed õiged veendumused jõuavad kohale alles siis, kui vanad alt veavad.
