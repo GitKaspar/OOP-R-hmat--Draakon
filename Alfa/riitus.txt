@@ -9,37 +9,37 @@ Käes on tõehetk.
 
 //(RANITS:)
 
-v1.Nagu Jürkale lubatud moosisid sa Sannale tema kohta igasugust head kokku, tüdruk tundus isegi meelitatud olevat.
-v1.Vastutasuks said uhke ohvriloooma.
-v1.Haarad alpakal kaelast ning tehes kindlaks, et loom ei kannatakse, saab kiire noa lõikega rituaal uhke alguse.
-v2.Üritasid, mis sa üritasid, ei õnnestunud sul Jürka käest ohvrilooma kätte saada. 
-v2.Sel korral jääb rituaal ilma vereohverduseta.
+v1.Hingad veidi kergemalt teades, et valeusku levitav šamaan on külast ära aetud.
+v1.Nüüd ei ole Luvipal siin mitte ühtegi rivaali.
+v2.Meenub, et see neetud aklupi usku levitav šamaan on endiselt liikvel, vahest ei taha Luvipa konkurentsi haistes ilmuda?
 
-v1.Sulle meenub Adlini käest saadud viirukid. Need peaks süütama kähku, et nende aroom jõuaks kaugemale levida.
+v1.Luvipale teeb kindlasti palju rõõmu, kui kohale tulles märkab, et rivaalide altarit enam ei ole.
+v1.Tunned end kindlamini teades, et oled selle ülesandega hästi hakkama saanud.
+v2.Su mõtetesse kargab hetkeks hirmutunne.
+v2.Sa ei saanud Aklupa altari hävitamisega hakkama, ehk tuleb vihmajumal sellest vaatamata kohale?
+
+v1.Sulle meenub meistrinna Adlini käest saadud viiruk. Selle peaks süütama kähku, et nende aroom jõuaks kaugemale levida.
 v1.Just seda sa järgmisena teedki.
-v2.Nüüd oleks hea viirukid põlema panna, kuid hullu naise jändamise tagajärjel jäi sa nendest ilma.
+v2.Nüüd oleks hea viirukid põlema panna, kuid hullu naise jandi tagajärjel jäi sa nendest ilma.
 
 v1.Viirukisuitsust rääkides... Vihmajumala tähelepanu püüdvat lõhna levitab ju ka koseveest leitud tömpsuu eritis.
 v1.Otsid välja kogutud nõre ning lased sellel vaikselt lõkke lähedal keeda.
 v2.Sulle tuleb meelde läbikukkumine kose juures.
 v2.Tömpsuu eritis jäi kogumata, sellest oleks hetkel rituaali juures palju abi olnud.
 
-v1.Luvipale teeb kindlasti palju rõõmu, kui kohale tulles märkab, et rivaalide altarit enam ei ole.
-v1.Su meel muutub rõõmsamaks teades, et oled selle ülesandega hästi hakkama saanud.
-v2.Su mõtetesse kargab hetkeks hirmutunne.
-v2.Sa ei saanud Aklupa altari hävitamisega hakkama, ehk tuleb vihmajumal sellest vaatamata kohale?
-
-v1.Hingad veidi kergemalt teades, et valeusku levitav šamaan on külast ära aetud.
-v1.Nüüd ei ole Luvipal siin mitte ühtegi rivaali.
-v2.Meenub, et see neetud aklupi usku levitav šamaan on endiselt liikvel, vahest ei taha Luvipa konkurentsi haistes ilmuda?
+v1.Nagu Jürkale lubatud rääkisid sa Sannale tema kohta kõõiksugu head kokku, tüdruk tundus isegi meelitatud olevat.
+v1.Vastutasuks said uhke ohvriloooma.
+v1.Haarad alpakal turjast, et paljastada tema kael. Tehes kindlaks, et loom ei kannata, saab kiire noa lõikega rituaal uhke lõpu.
+v2.Üritasid, mis sa üritasid, ei õnnestunud sul Jürka käest ohvrilooma kätte saada. 
+v2.Sel korral jääb rituaal ilma vereohvrita.
 
 Mis tehtud, see tehtud.
 Nüüd on vaid võimalik loota parimat.
 
 Sa võtad taskust lehed, kus on lohaka käekirjaga kirjutatud pikad loitsud.
-Tõstad käed taeva poole ning hakkad valju hääleliselt posima.
+Tõstad käed taeva poole ning hakkad valjuhääleliselt posima.
 
-Oled nüüd saanud kõigi külarahva tähelepanu.
+Oled nüüd saanud kogu külarahva tähelepanu.
 Mass koguneb uudishimulikult su ümber ja ootab.
 
 ja siis äkki...
@@ -52,34 +52,34 @@ v1.Aga kus ta siis on?
 v1.
 v1.Külarahvas läheb oma tegemiste juurde tagasi sinust välja tegemata.
 v1.
-v1.Sa kukkusid liiga paljudest ülesannetest läbi.
-v1.Nüüd ei ela küla järgmist talve üle.
+v1.Ettevalmistustest vist ei piisanud.
+v1.Kahtled sügavalt, kas küla järgmist talve näeb.
 v1.
 v1.LÕPP
 
 //(3-4/5)
 v2.Lõke lõi järsku suuremal leegil põlema ja taevast kostus möire.
-v2.Nüüd vaatas juba iga külaelanik silmi kissitades taevapoole.
+v2.Iga külaelanik vaatas silmi kissitades taevapoole.
 v2.
-v2.Ja oh seda imet!
+v2.Ja kae imet!
 v2.Taevast lendas alla justkui tuulel libisedes pikk ussikehaga elukas, kes iga hetkega lähenedes suuremaks muutus.
 v2.Siis ta seisatas ja jäi rahva kohale hõljuma.
 v2.Ta keha katsid soomused ja uimed ning ta teravad hambad olid hirmuäratavad.
 v2.Kostus järgmine möiratus.
 v2.
 v2.Rahvas oli vapustatud, kes nuttis, kes naeris.
-v2.Kogud ennast hetkeks, kuid siis palud kõvahäälselt terve rahva ees vihmadraakonit.
+v2.Kogud ennast hetkeks, kuid siis palud kõvahäälselt terve rahva ees vihmajumalust.
 v2."Ma anun kogust südamest."
 v2."Kallist taevasisalik, õnnista minu piinlevaid õdesid ja vendi veega."
-v2."Pikka aega oleme me kannatanud ja nüüd täna just sinu enda suvipühal oleme kõik siin, et sind tähistada."
+v2."Pikka aega oleme me kannatanud ja nüüd täna just sinu enda suvipühal oleme kõik siin, et sind austada."
 v2.
-v2.Luvipa on hetkeks liikumatu, kuid siis laseb taeva poole valla kõrvulukustava karje.
-v2.Juba hetk hiljem hakkab taevast tibutama õrna vihma, mis iga hetkega ainult kasvab.
+v2.Luvipa on hetkeks liikumatu, kuid siis laseb taeva poole valla kõrvulukustava kriiske.
+v2.Hetk hiljem hakkab taevast tibutama õrna vihma, mis iga hetkega ainult kasvab.
 v2.
 v2.Rahvas kilkab rõõmust.
-v2.Vihmajumal on oma töö teinud ja kaob taevastesse kõrgustesse nii kiiresti, kui ta sealt ka ilmus.
+v2.Vihmajumal on oma töö teinud ja kaob taevastesse kõrgustesse nii kiiresti, kui ta sealt ilmus.
 v2.
-v2.Sa saidki hakkama.
+v2.Saidki hakkama.
 v2.Küla on päästetud!
 v2.
 v2.LÕPP
