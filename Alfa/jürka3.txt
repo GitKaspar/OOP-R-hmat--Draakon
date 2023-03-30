@@ -77,8 +77,8 @@ v3.
 v3.* Mees haarab ühe tarateiba ja jookseb kiiresti sinu suunas. *
 v3.* Taganed, suutmata sobivat loitsu ette valmistada. *
 v3.* Pead tükk aega jooksma, kuni ta tagaajamise lõpetab. *
-v3: Eemalt hõikab Jürka:
-v3: Ja et ma enam sind siin ei näeks!
+v3. Eemalt hõikab Jürka:
+v3. Ja et ma enam sind siin ei näeks!
 v3.
 v3. * See läks küll kehvasti. *
 v3. * Enam pole lootustki Jürkalt ohvrilooma saada. *
