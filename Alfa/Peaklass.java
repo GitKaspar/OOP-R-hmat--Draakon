@@ -29,6 +29,12 @@ public class Peaklass {
                     kohaList) {
                 System.out.println(jrkLuger++ + ") " + koht);
             }
+            
+            /*
+             See koht vist probleemne: kui tekib rekursioon, tagastatakse mitu väärtust. Kõik väärtused söödetakse tsüklile.
+             St, et nt 8 sisestamisel järgneb switch-case(8), mis aga default haruna lõpetab tsükli ja alustab uuesti.
+             Kohta küsitakse kaks korda.
+            */
             int valik = Abi.valiKoht(kohaList);
             switch(valik){
                 case 1: // Kosk
