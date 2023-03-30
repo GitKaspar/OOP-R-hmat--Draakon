@@ -92,20 +92,3 @@ v3.Millise kasuks otsustad?
 v3.1. Mõtled ümber ja keeldud aitamast.
 v3.2. Otsustad aidata Jürkal Sannaga kokku saada.
 v3.3. Paku ennast Sanna asemel.
-
-Mis sa arvad, et ma naist ei löö?
-JÜRFA FAIL: ANNAB PEKSA!
-
-//
-
-VALIK 1 JA EDASI
-1) ÄRRITAD
-	1) NÕIUD - SAAD PEKSA
-	2) NÕUAD PARIMAT LOOMA - EI RÄÄGI
-2) ÜLDINE HÜVE
-	2) NÕIUD - SAAD PEKSA
-	3) NÕUAD PARIMAT LOOMA - EI RÄÄGI
-3) OMAKASU
-	1) KEELDUD - EI RÄÄGI
-	2) NÕUSTUD, MAINID SÕBRANNA SEOST
-	3) FLIRDID - SAAD PEKSA
