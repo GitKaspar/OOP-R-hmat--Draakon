@@ -144,6 +144,8 @@ public class Abi {
         }
     }
 
+    // Küsib miskipärast kaks korda. Kas rekursiooni tõttu?
+    
     public static int valiKoht(List<Koht> kohaList) {
 
         System.out.print("\nSinu valik: \n");
