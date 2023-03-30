@@ -129,13 +129,13 @@ public class Abi {
         return tulemus;
     }
 
-    public static void kaheneValik(String failiNimi) throws Exception{
+    public static void kaheneValik(String failiNimi) throws Exception {
         Scanner sisendKlaverilt = new Scanner(System.in);
         int valik = sisendKlaverilt.nextInt();
 
         if (valik == 1) {
             loeFailEtte(failiNimi);
-        } else if(valik == 2) { // Kui siia jääks vaid if, käivituks sisendi 1 puhul ka else. Miks?
+        } else if (valik == 2) { // Kui siia jääks vaid if, käivituks sisendi 1 puhul ka else. Miks?
             System.out.println("\nHead aega!");
             System.exit(0);
         } else {
@@ -146,7 +146,7 @@ public class Abi {
 
     public static int valiKoht(List<Koht> kohaList) {
 
-        System.out.print("Sinu valik: \n");
+        System.out.print("\nSinu valik: \n");
         Scanner valikuNr = new Scanner(System.in);
         int sisestatudNumber = valikuNr.nextInt();
 
@@ -160,6 +160,145 @@ public class Abi {
                 System.out.println("Vahemikus 1-5, palun.");
                 valiKoht(kohaList);
             }
-        } return sisestatudNumber;
+        }
+        return sisestatudNumber;
+    }
+
+    // Meetod on jäänuk ühest vanemast lähenemisest, kus ettevõtmisi eraldi meetoditena esitada proovis.
+
+    public static boolean kosk(int õigeNr, Koht kosk) {
+        int võimalusi = 2;
+
+        while (võimalusi > 0 && !kosk.isKasÕnnestus()) {
+            System.out.println("Sinu valik: ");
+            Scanner sisendKlaverilt = new Scanner(System.in);
+            int valik = sisendKlaverilt.nextInt();
+
+            String õige1 = "Kae! Oligi seal! Haarad temast kinni";
+            String õige2 = "Kae! Oligi seal! Haarad temast kinni ja tuled tiigist välja: räpane ja väsinud, aga võidukas.";
+            String õige3 = "Kae! Oligi seal! Haarad temast kinni ja tuled tagasi kaldale.";
+            String vale1 = "Vaatad sinna, vaatad tänna. Katsud vett, aga ei näe elukast märkigi.";
+            String vale2 = "Ei leidnud. Nüüd oled räpane ja väsinud.";
+            String vale3 = "Memm rääkis kunagi, et kose all on saladused. Seekord mitte.";
+            String vihje1 = "Vanatoi ütles kunagi, et neile meeldib käia veepinnal sääsevastseid degusteerimas.";
+            String vihje2 = "Valgust pidid teised kartma. Kus on siin kõige pimedam?";
+            String vihje3 = "Kas Memm mitte ei öelnud kunagi, et meeldib loomale liikuv vesi?";
+
+            String[] valed = {vale1, vale2, vale3};
+            String[] õiged = {õige1, õige2, õige3};
+
+            // Kuidas vale ja õige õige numbriga siduda?
+
+            if (valik <= 3 && valik >= 1) {
+                if (valik == õigeNr) {
+                    System.out.println(õiged[valik - 1]);
+                    kosk.setKasÕnnestus(true);
+                } else if (õigeNr == 1) {
+                    võimalusi--;
+                    System.out.println(valed[valik - 1]);
+                    if (võimalusi == 1)
+                        System.out.println(vihje1);
+                } else if (õigeNr == 2) {
+                    võimalusi--;
+                    System.out.println(valed[valik - 1]);
+                    if (võimalusi == 1)
+                        System.out.println(vihje2);
+                } else if (õigeNr == 3) {
+                    võimalusi--;
+                    System.out.println(valed[valik - 1]);
+                    if (võimalusi == 1)
+                        System.out.println(vihje3);
+                }
+            } else {
+                System.out.println("Valikuvariandid on 1, 2 ja 3.");
+                kosk(õigeNr, kosk);
+            }
+        }
+        return kosk.isKasÕnnestus();
+    }
+
+    // Abimeetod kose koodijupile
+
+    public static void koskLõpeta() throws Exception{
+        System.out.println("Sinu valik: ");
+        Scanner sisendKlaverilt = new Scanner(System.in);
+        int valik = sisendKlaverilt.nextInt();
+
+        String valik1 = "Kiiresti kaob ta paari sabahoobiga vee alla.\n" +
+                "Miski ütleb, et ta oleks sinu abita sama teed läinud.\n" +
+                "Tagasi külla.\n";
+        String valik2 = "Kostab vali karjatus. Verd on igal pool.\n" +
+                "One hea tunne?\n" +
+                "Tagasi külla.\n";
+        String valik3 = "Vingerjas teine! Libises käest ja lipsas kohe vette tagasi.\n" +
+                "Siin pole enam midagi teha.\n" +
+                "Tagasi külla. \n";
+
+        switch (valik){
+            case 1: {väljastaPausiga(valik1);
+                break;}
+            case 2: {väljastaPausiga(valik2);
+                break;}
+            case 3: {väljastaPausiga(valik3);
+                break;}
+            default: {
+                System.out.println("Valikuvariandid on 1, 2 ja 3.");
+                koskLõpeta();
+            };
+        }
+    }
+
+    // Sellel ülesandel ka oma programm sarnaselt kosele, kuna juhuslikud elemendid sees.
+
+    public static void altar(int juhuslikArv, Koht altar) throws Exception {
+        loeFailEtte("altar_sj.txt");
+        if (juhuslikArv == 1) {
+            loeFailEtte("altar_veab.txt");
+            int altarVastus1 = dialoogiHaru(2, "altar1.txt");
+            if (altarVastus1 == 1)
+                altar.setKasÕnnestus(true);
+            altar.setKasKülastatud(true);
+        }
+        if (juhuslikArv == 2) {
+            loeFailEtte("altar_eiVea.txt");
+            int altarVastus2 = dialoogiHaru(2, "altar2.txt");
+            if (altarVastus2 == 2)
+                altar.setKasÕnnestus(true);
+            altar.setKasKülastatud(true);
+        }
+    }
+
+    // Taas lisameetod, mis arvestab ülesande omapärase juhuslikkusega.
+
+    public static void mõistatused(Koht adlin) throws Exception{
+        int võimalusi = 2;
+        List<Integer> mõistatused = new ArrayList<>();
+        mõistatused.add(1);
+        mõistatused.add(2);
+        mõistatused.add(3);
+        while(võimalusi > 0 && !adlin.isKasÕnnestus()) {
+            int valik = juhuslikArv(mõistatused.size());
+            int juhuslikMõistatus = mõistatused.get(valik - 1);
+            switch(juhuslikMõistatus){
+                case 1: int valik1 = dialoogiHaru(3, "mõistatus1.txt");
+                if(valik1 == 1)
+                    adlin.setKasÕnnestus(true);
+                võimalusi--;
+                break;
+                case 2: int valik2 = dialoogiHaru(3, "mõistatus2.txt");
+                if(valik2 == 2)
+                    adlin.setKasÕnnestus(true);
+                võimalusi--;
+                break;
+                case 3: int valik3 = dialoogiHaru(3, "mõistatus3.txt");
+                if (valik3 == 3)
+                    adlin.setKasÕnnestus(true);
+                võimalusi--;
+                break;
+                default: break;
+            }
+            mõistatused.remove(juhuslikMõistatus - 1);
+        }
+        adlin.setKasKülastatud(true);
     }
 }
