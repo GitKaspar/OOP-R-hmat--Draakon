@@ -27,7 +27,7 @@ Kuidas vastad?
 1. Süüdistad libašamaani pettuses.
 2. Palu šamaanil lõpetata Aklupati usu kuulutamine.
 3. Proovi veenda rahvast enda jumala ülemlikkuses.
-v1Õpilane:
+v1.Õpilane:
 v1.Ah et sul ei ole rahva eest midagi varjata? 
 v1.Sinu võimed on võltsid ja ise oled sa petis, kes ei oska õiget maagiatki!
 v1.
