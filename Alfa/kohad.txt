@@ -1,5 +1,5 @@
 Vana tiik kose ees;f;koskTulemused.txt
-Aplukati altar;f;altarTulemused.txt
+Aklupati altar;f;altarTulemused.txt
 Jürka karjamaa;f;jürkaTulemused.txt
 Viirukimeistri hütt;f;adlinTulemused.txt
-Aplukati šamaani kogudusplats;f;šamaanTulemused.txt
+Aklupati šamaani kogudusplats;f;šamaanTulemused.txt
