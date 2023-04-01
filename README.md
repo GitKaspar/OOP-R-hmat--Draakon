@@ -189,3 +189,4 @@ Kes tuleb? Igasugustel siin kohta ei ole.
 ALFA MUUTUSED:
 1) Esialgu dialoogi ilmumist vaja korrigeerida. Iga järgmise päeva valik tuleb tuimalt vana teksti otsa ilma vahereata.
 2) Lõpus alustab riituse kirjeldamisel loendamine kosest, aga arvestab ette viirukit, mis on neljas element - ei ole sidus.
+3) Viited Suvipühale näivad puuduvat. Oleks ehk hea (sidudes punktiga 1) iga kohapäringu otsa lisada, mitu päeva jäänud.
