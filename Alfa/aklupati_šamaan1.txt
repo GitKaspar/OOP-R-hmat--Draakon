@@ -7,10 +7,9 @@ v1.* Kostab karje ning kastihunniku tagant jookseb välja suitvate pükstega mee
 v1.* Rahva seas vallandub pomin ning iga hetkega muutub selle hääletoon vihasemaks ja valjemaks. *
 v1.
 v1.Õpilane:
-v1.Sa ise käskisid oma meestel selle tuvi lendu laste? On nii?
-v1.Ma teadsin et sa oled üks suur rahva pettur! Mitte midagi muud! // Saaks ka ilma selle lauseta - ootame kohe vastust.
+v1.Sa ise käskisid oma meestel selle tuvi lendu lasta? On nii?
 v1.
-v1.* Inimmass, nüüd juba päris ärritunud hakkab libašamaani peale karjuma ning talle lähemale liikuma. *
+v1.* Inimmass, nüüd juba päris ärritunud, hakkab libašamaani peale karjuma ning talle lähemale liikuma. *
 v1.
 v1.Aklupati šamaan:
 v1.Rahvas, kuulake mind! Jüngrid, sõbrad... Olge nüüd! 
